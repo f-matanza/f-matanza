@@ -14,6 +14,3 @@ Alongside my studies, I'm taking specialized courses to further sharpen my skill
 
 ## Hobbies and Interests 🏁 🐾 ♟️
 Besides my keen interest in motorsports, I enjoy spending my free time with my family, two cats and a dog. I also like to play chess.
-
-## How to Reach Me 📫
-via GitHub
